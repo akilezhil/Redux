@@ -16,7 +16,7 @@ const Product = () => {
 
   return (
     <div style={{ padding: "20px" }}>
-      <h2>Product App</h2>
+      <h2>Product App names</h2>
 
       <input
         type="text"
